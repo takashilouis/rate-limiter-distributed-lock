@@ -1,0 +1,1 @@
+Run the testIP.sh script to simulate 29 requests from IP address 192.168.1.1 and 31 requests from IP address 192.168.1.2 to observe the operation of the rate limiter, which allows 30 requests per minute.
